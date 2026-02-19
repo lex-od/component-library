@@ -1,3 +1,26 @@
+# Input Component
+
+A versatile, accessible, and customizable input component built with **React**, **Tailwind CSS**, and **Lucide React**. It supports various input types, password visibility toggling, and a one-click clear functionality.
+
+## Features
+
+- 🔑 **Password Toggle**: Easily switch between hidden and visible password text.
+- 🧹 **Clearable Support**: Optional "X" button to quickly wipe the input value.
+- 🎨 **Tailwind Integration**: Fully styled with Tailwind, supporting custom class overrides.
+- 🛠 **Type Safe**: Written in TypeScript with full support for native HTML input attributes.
+
+## Screenshots
+
+### Component States
+
+| Default State                                                                | Active / Focus State                                                     |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| ![Default State](https://placehold.co/300x100?text=Default+State+Screenshot) | ![Focus State](https://placehold.co/300x100?text=Focus+State+Screenshot) |
+
+### Storybook Overview
+
+![Storybook UI](https://placehold.co/600x400?text=Storybook+UI+Screenshot)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
